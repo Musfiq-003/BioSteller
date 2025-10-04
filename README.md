@@ -104,7 +104,7 @@ BioSteller addresses the challenge of making NASA's extensive space biology data
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/codeslayer86/BioSteller
+   git clone https://github.com/Musfiq-003/BioSteller
    cd BioSteller
    ```
 
@@ -347,3 +347,4 @@ Having issues? We're here to help!
 Made with ❤️ for the NASA Space Apps Challenge
 
 </div>
+
